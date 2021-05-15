@@ -12,5 +12,5 @@ hello linyue! hello git!
 hello linyue! hello git!
 hello linyue! hello git!
 hello linyue! hello git!
-hello linyue! hello git!
-hello linyue! hello git!
+hello linyue! hello git! 
+hello linyue! hello git! hot-fix test
